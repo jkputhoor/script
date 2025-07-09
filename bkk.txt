@@ -1,0 +1,14 @@
+#bkk01flame1.global.smoke-mirrors.com
+172.26.51.13
+#bkk01flame2.corp.wlt.com
+172.26.51.14
+#bkk01flame3.corp.wlt.com
+172.26.51.15
+#bkk01flame4.corp.wlt.com
+172.26.51.86
+#THBKKmd01111054
+172.26.51.79
+#bkk01rslv01.global.smoke-mirrors.com
+172.26.51.16
+###test###
+bkk01flame1.global.smoke-mirrors.com
